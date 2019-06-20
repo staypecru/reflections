@@ -1,0 +1,50 @@
+FC - file compare 
+
+It lets me compare files for faster search mistakes. 
+
+I can easily compare old and new version of the same file after changings 
+and faster find the difference between them. 
+
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+You can compare old versions with last version or even them to each other. It gives you an advantage to find changes.
+
+
+What do you think are the pros and cons of manually choosing when to create a commit,
+ like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+When you save manually you can choose just right size of changes and you can even add some descriptions to each commit. 
+But you can forget to save it and it would be a silly mistake.
+
+
+
+Why do you think some version control systems, like Git,
+ allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+
+Because it allows you to track files together and see the changes beetwen them together.
+For example if you create something like button, you will make a changes in html and css file,
+and it's a good practice to save them together and describe the commit as "adding a button"
+
+
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+First you use git log to see the all commits and find one which you need to compare; 
+Then use git diff with previos (or just different) commit to compare commits and find differences
+
+
+
+
+How might using version control make you more confident to make changes that could break something?
+
+You can easily checkout every commit and every saved changes you did, so there is no need to worry about mistakes.
+
+
+
+Now that you have your workspace set up, what do you want to try using Git for? 
+
+To create a repositories for all my future projects to keep them safe and more sustainable.
